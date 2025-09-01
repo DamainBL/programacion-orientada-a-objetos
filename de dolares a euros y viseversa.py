@@ -1,3 +1,6 @@
+#Damian Bermudez Lara
+#calcular area de rectangulo 
+
 print ("bienvenido a coversor de auros a dolares \n")
 
 menu = 5
@@ -35,3 +38,4 @@ while (menu!=0):
     else:
              
         print("opcion no encontrada")
+
