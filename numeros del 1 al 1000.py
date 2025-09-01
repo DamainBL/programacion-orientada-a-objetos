@@ -1,3 +1,6 @@
+#Damian Bermudez Lara
+#calcular area de rectangulo 
+
 print ("bienvenido a numeros del 1 al 10000 \n")
 
 menu = 5
@@ -22,6 +25,7 @@ while (menu!=0):
     else:
              
         print("opcion no encontrada")
+
 
 
 
