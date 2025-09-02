@@ -1,10 +1,14 @@
 #Damian Bermudez Lara
-#calcular area de rectangulo 
+#numero mayor, numero menor
 
 print("programa para saber que numero es mayor y cual es menor")
 
+#tomar datos del usuario
+
 numero_1 = float(input("escriba un numero arabigo: "))
 numero_2 = float(input("escriba otro numero arabigo: "))
+
+#realizar una conparacion de mayor o menor para determinar cual es el mayor y el menor
 
 if(numero_1>numero_2):
 
