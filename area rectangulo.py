@@ -3,13 +3,17 @@
 
 print("programa para calcular area y perimetro de rectangulo")
 
+#recolectar datos
+
 Largo = float(input("escriba el largo de su figura en numeros arabigos: "))
 ancho = float(input("escriba la base de su figura en numeros arabigos: "))
+
+#realizar operaciones
 
 perimetro = (Largo*2)+(ancho*2)
 area = Largo*ancho 
 
-
+#dejar que el usuario elija cual dato mostrar
 
 print("menu--------1:perimetro-----------2:area----------0:salir")
 
