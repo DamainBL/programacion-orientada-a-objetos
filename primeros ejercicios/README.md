@@ -1,6 +1,6 @@
 # Ejercicios de Programación en Python
 
-Este repositorio contiene 6 ejercicios de programación en Python, los cuales fueron propuestos en clase de los cuales eleji 6 de ellos para realizar. Cada ejercicio está diseñado para poner a prueba y mejorar las habilidades en Python, abordando conceptos fundamentales.
+Esta carpeta contiene 6 ejercicios de programación en Python, los cuales fueron propuestos en clase de los cuales eleji 6 de ellos para realizar. Cada ejercicio está diseñado para poner a prueba y mejorar las habilidades en Python, abordando conceptos fundamentales.
 
 ## Contenido
 
